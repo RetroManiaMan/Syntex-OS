@@ -110,3 +110,5 @@ Licensed under the **MIT License** — free to use, modify, and distribute.
 
 > “The future of operating systems isn’t downloaded — it’s *loaded*.”  
 > — **System Technologies**
+
+<img width="1536" height="1024" alt="ChatGPT Image Oct 22, 2025, 10_35_23 AM" src="https://github.com/user-attachments/assets/28f8cd2f-6617-4763-af16-98e0b6f5c4bf" />
